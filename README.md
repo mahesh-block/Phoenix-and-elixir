@@ -1,4 +1,4 @@
-# Discuss
+# Topic Board
 
 To start your Phoenix app:
 
